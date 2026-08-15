@@ -1,28 +1,231 @@
-# Hi there 👋, I'm Ayush Kumar Shivam
+<div align="center">
 
-Full-stack developer building modern web applications with Next.js, React, Node.js, and TypeScript.
+# Hey, I'm Ayush Shivam 👋
 
----
+### Full-Stack Developer · Problem Solver · Computer Science Student
 
-### 💻 LeetCode Activity
+<p>
+  <a href="https://github.com/ayushshivam">
+    <img src="https://img.shields.io/github/followers/ayushshivam?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/ayushshivam">
+    <img src="https://img.shields.io/github/stars/ayushshivam?label=Stars&style=flat-square" />
+  </a>
+</p>
 
-<!-- LEETCODE:START -->
-#### Problem Solving Stats
-| Total Solved | Easy | Medium | Hard |
-| :--- | :--- | :--- | :--- |
-| **832** | 275 | 488 | 69 |
-
-#### Recently Solved Problems
-- [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) — *2026-08-14*
-- [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) — *2026-08-13*
-- [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) — *2026-08-12*
-- [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) — *2026-08-12*
-- [Maximal Square](https://leetcode.com/problems/maximal-square/) — *2026-08-11*
-<!-- LEETCODE:END -->
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB, Supabase
-- **DevOps & Tools:** Docker, Git, Vercel, AWS
+<div align="center">
+
+<img src="./ascii/ascii.svg" width="860" alt="Animated ASCII portrait"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate at **IIIT Bhagalpur** who enjoys building systems, solving problems, and understanding how things work under the hood.
+
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Full-stack development
+* ⚙️ Backend systems & APIs
+* 🧠 Data Structures & Algorithms
+* 🐳 Docker & deployment
+* ☁️ AWS & cloud infrastructure
+* 🚀 Currently exploring **Go, system design, and backend engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,go" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures & Algorithms and competitive programming.
+
+<div align="center">
+
+<!--
+    Keep this section connected to your existing
+    LeetCode-generation script.
+
+    Do NOT hardcode your problem count here.
+-->
+
+<img src="./leetcode-stats.svg" alt="LeetCode Statistics"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 Real-Time Chat Application
+
+A real-time messaging application built with a Next.js frontend and a WebSocket backend.
+
+**Highlights**
+
+* Real-time communication using WebSockets
+* Authentication with NextAuth
+* MongoDB for persistent data
+* In-memory Maps for active-user/session tracking
+* WebSocket server deployed on AWS EC2
+* Nginx reverse proxy
+* PM2 process management
+* SSL/TLS with Certbot
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `WebSocket` `AWS EC2` `Nginx` `PM2`
+
+---
+
+### ⚖️ Online Judge
+
+A LeetCode-style online judge designed around isolated code execution.
+
+**Highlights**
+
+* Multi-language execution architecture
+* Docker-based sandboxing
+* Separate API and Judge servers
+* Redis-based submission queue
+* Scheduler and worker architecture
+* Compilation and execution isolation
+* Automated output evaluation
+* Resource limits for submitted programs
+
+**Stack:** `TypeScript` `Node.js` `Docker` `Redis` `C++` `Python` `Java`
+
+---
+
+### 📋 Contractor Management Platform
+
+A full-stack platform for managing contractors, contracts, applications, and project workflows.
+
+**Highlights**
+
+* Authentication
+* Contractor registration
+* Contract management
+* Contractor bidding/application flow
+* Supervisor management
+* Status tracking
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+
+---
+
+### ✅ Task Manager
+
+A full-stack task management application with authentication and protected APIs.
+
+**Highlights**
+
+* JWT authentication
+* CRUD operations
+* Protected routes
+* REST API
+* MongoDB persistence
+
+**Stack:** `React` `Node.js` `Express` `MongoDB`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushshivam&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshivam&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 What I'm Working On
+
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│  ▸ Backend Engineering                           │
+│  ▸ Go                                             │
+│  ▸ Distributed Systems                            │
+│  ▸ Docker & Container Isolation                   │
+│  ▸ System Design                                  │
+│  ▸ Data Structures & Algorithms                   │
+│  ▸ Building practical developer tools             │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 Current Focus
+
+```text
+DSA                ████████████████████  Strong
+Full Stack         ███████████████████░  Strong
+Backend             █████████████████░░░  Growing
+Cloud / DevOps      ███████████████░░░░░  Growing
+System Design       ████████████░░░░░░░░  Learning
+Go                  ██████████░░░░░░░░░░  Learning
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ayushshivam">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-shivam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Build things. Break things. Understand why."
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayushshivam&style=flat-square&color=blue" alt="Profile views"/>
+
+</div>
