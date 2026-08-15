@@ -5,11 +5,11 @@
 ### Full-Stack Developer · Problem Solver · Computer Science Student
 
 <p>
-  <a href="https://github.com/ayushshivam">
-    <img src="https://img.shields.io/github/followers/ayushshivam?label=Followers&style=flat-square" />
+  <a href="https://github.com/ayushivam22">
+    <img src="https://img.shields.io/github/followers/ayushivam22?label=Followers&style=flat-square" />
   </a>
-  <a href="https://github.com/ayushshivam">
-    <img src="https://img.shields.io/github/stars/ayushshivam?label=Stars&style=flat-square" />
+  <a href="https://github.com/ayushivam22">
+    <img src="https://img.shields.io/github/stars/ayushivam22?label=Stars&style=flat-square" />
   </a>
 </p>
 
@@ -29,13 +29,13 @@
 
 I'm a Computer Science undergraduate at **IIIT Bhagalpur** who enjoys building systems, solving problems, and understanding how things work under the hood.
 
-* 🎓 B.Tech in Computer Science & Engineering
-* 💻 Full-stack development
-* ⚙️ Backend systems & APIs
-* 🧠 Data Structures & Algorithms
-* 🐳 Docker & deployment
-* ☁️ AWS & cloud infrastructure
-* 🚀 Currently exploring **Go, system design, and backend engineering**
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Full-stack development
+- ⚙️ Backend systems & APIs
+- 🧠 Data Structures & Algorithms
+- 🐳 Docker & deployment
+- ☁️ AWS & cloud infrastructure
+- 🚀 Currently exploring **Go, system design, and backend engineering**
 
 ---
 
@@ -94,14 +94,14 @@ A real-time messaging application built with a Next.js frontend and a WebSocket 
 
 **Highlights**
 
-* Real-time communication using WebSockets
-* Authentication with NextAuth
-* MongoDB for persistent data
-* In-memory Maps for active-user/session tracking
-* WebSocket server deployed on AWS EC2
-* Nginx reverse proxy
-* PM2 process management
-* SSL/TLS with Certbot
+- Real-time communication using WebSockets
+- Authentication with NextAuth
+- MongoDB for persistent data
+- In-memory Maps for active-user/session tracking
+- WebSocket server deployed on AWS EC2
+- Nginx reverse proxy
+- PM2 process management
+- SSL/TLS with Certbot
 
 **Stack:** `Next.js` `TypeScript` `MongoDB` `WebSocket` `AWS EC2` `Nginx` `PM2`
 
@@ -113,14 +113,14 @@ A LeetCode-style online judge designed around isolated code execution.
 
 **Highlights**
 
-* Multi-language execution architecture
-* Docker-based sandboxing
-* Separate API and Judge servers
-* Redis-based submission queue
-* Scheduler and worker architecture
-* Compilation and execution isolation
-* Automated output evaluation
-* Resource limits for submitted programs
+- Multi-language execution architecture
+- Docker-based sandboxing
+- Separate API and Judge servers
+- Redis-based submission queue
+- Scheduler and worker architecture
+- Compilation and execution isolation
+- Automated output evaluation
+- Resource limits for submitted programs
 
 **Stack:** `TypeScript` `Node.js` `Docker` `Redis` `C++` `Python` `Java`
 
@@ -132,12 +132,12 @@ A full-stack platform for managing contractors, contracts, applications, and pro
 
 **Highlights**
 
-* Authentication
-* Contractor registration
-* Contract management
-* Contractor bidding/application flow
-* Supervisor management
-* Status tracking
+- Authentication
+- Contractor registration
+- Contract management
+- Contractor bidding/application flow
+- Supervisor management
+- Status tracking
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
@@ -149,11 +149,11 @@ A full-stack task management application with authentication and protected APIs.
 
 **Highlights**
 
-* JWT authentication
-* CRUD operations
-* Protected routes
-* REST API
-* MongoDB persistence
+- JWT authentication
+- CRUD operations
+- Protected routes
+- REST API
+- MongoDB persistence
 
 **Stack:** `React` `Node.js` `Express` `MongoDB`
 
@@ -163,11 +163,11 @@ A full-stack task management application with authentication and protected APIs.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushshivam&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushivam22&show_icons=true&hide_border=true&rank_icon=github" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshivam&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushivam22&hide_border=true" />
 
 </div>
 
@@ -179,12 +179,12 @@ A full-stack task management application with authentication and protected APIs.
 ┌──────────────────────────────────────────────────┐
 │                                                  │
 │  ▸ Backend Engineering                           │
-│  ▸ Go                                             │
-│  ▸ Distributed Systems                            │
-│  ▸ Docker & Container Isolation                   │
-│  ▸ System Design                                  │
-│  ▸ Data Structures & Algorithms                   │
-│  ▸ Building practical developer tools             │
+│  ▸ Go                                            │
+│  ▸ Distributed Systems                           │
+│  ▸ Docker & Container Isolation                  │
+│  ▸ System Design                                 │
+│  ▸ Data Structures & Algorithms                  │
+│  ▸ Building practical developer tools            │
 │                                                  │
 └──────────────────────────────────────────────────┘
 ```
@@ -208,11 +208,11 @@ Go                  ██████████░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/ayushshivam">
+<a href="https://github.com/ayushivam22">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ayush-shivam/">
+<a href="https://www.linkedin.com/in/ayushivam22/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -226,6 +226,6 @@ Go                  ██████████░░░░░░░░░░
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ayushshivam&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ayushivam22&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
