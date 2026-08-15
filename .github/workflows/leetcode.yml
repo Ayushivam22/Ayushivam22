@@ -1,0 +1,69 @@
+name: Update LeetCode Stats
+
+on:
+  # Run automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Also allow manual execution
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-leetcode:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # --------------------------------------------------
+      # Checkout repository
+      # --------------------------------------------------
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      # --------------------------------------------------
+      # Setup Python
+      # --------------------------------------------------
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+
+      # --------------------------------------------------
+      # Generate LeetCode SVG
+      # --------------------------------------------------
+
+      - name: Generate LeetCode stats
+        run: |
+          python scripts/generate_leetcode.py
+
+
+      # --------------------------------------------------
+      # Commit generated SVG if it changed
+      # --------------------------------------------------
+
+      - name: Commit changes
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add leetcode-stats.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit \
+              -m "Update LeetCode stats"
+
+            git push
+          fi
