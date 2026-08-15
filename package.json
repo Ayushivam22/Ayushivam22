@@ -1,0 +1,21 @@
+{
+  "name": "ayushivam22",
+  "version": "1.0.0",
+  "description": "Full-stack developer building modern web applications with Next.js, React, Node.js, and TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushivam22/Ayushivam22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ayushivam22/Ayushivam22/issues"
+  },
+  "homepage": "https://github.com/Ayushivam22/Ayushivam22#readme"
+}
